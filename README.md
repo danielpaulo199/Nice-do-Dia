@@ -15,10 +15,16 @@
 <br>
 
 <h1 align="center">Instalação</h1>
-- Clone o repostiorio para sua máquina,
-- Instale a fonte ALGER.TTF como administrador.
+- Clone o repostiorio para sua máquina
+- Instale a fonte ALGER.TTF como administrador
 <br>
 
 <h1 align="center">Utilização</h1>
 
-- Todas as intruções do programa estão no guia disponibilizado !
+- Todas as intruções do programa estão no guia em pdf disponibilizado !
+<br>
+
+<h1 align="center">Exemplo do PDF final</h1>
+<p align="center">
+<img alt="Pdf exemplo" src="https://github.com/danielpaulo199/Nice-do-Dia/blob/master/git-files/example.JPG">
+</p>
