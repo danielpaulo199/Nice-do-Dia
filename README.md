@@ -15,7 +15,7 @@
 <br>
 
 <h1 align="center">Instalação</h1>
-- Clone o repostiorio para sua máquina
+- Clone o repostiorio para sua máquina<br>
 - Instale a fonte ALGER.TTF como administrador
 <br>
 
