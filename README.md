@@ -12,3 +12,13 @@
 <img alt="Linguagem" src="https://img.shields.io/badge/Linguagem-Python-blue">
 <img alt="Biblioteca usada" src="https://img.shields.io/badge/Biblioteca-ReportLab-red">
 </p>
+<br>
+
+<h1 align="center">Instalação</h1>
+- Clone o repostiorio para sua máquina,
+- Instale a fonte ALGER.TTF como administrador.
+<br>
+
+<h1 align="center">Utilização</h1>
+
+- Todas as intruções do programa estão no guia disponibilizado !
