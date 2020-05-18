@@ -134,6 +134,10 @@ bombom nestle 300g
 bombom nestle
 especialidades
 300g
+bombom nestle 251g
+bombom nestle
+especialidades
+251g
 cafe fort 500g
 café vácuo
 fort
@@ -142,8 +146,8 @@ cafe iguacu 200g
 café solúvel
 iguaçu
 200g
-cafe melita extraforte 500g
-café melita
+cafe melitta extraforte 500g
+café melitta
 extra forte
 500g
 cerveja amstel 350ml
@@ -313,7 +317,7 @@ lata
 cerveja lokal 350ml
 cerveja lokal
 lata
-250ml
+350ml
 cerveja devassa 350ml
 cerveja devassa
 lata
@@ -567,7 +571,7 @@ bacon de paleta pamplona kg
 bacon de paleta
 defumado pamplona
 kg
-cafe mellita 500g
+cafe melitta 500g
 cafe melitta
 tradicional
 500g
@@ -1245,7 +1249,7 @@ mona
 5kg
 melancia und
 melancia tropical
-unidade
+grande
 und
 margarina delicia com sal 1kg
 margarina delícia
@@ -1356,8 +1360,8 @@ creme vegetal becel
 sem sal
 500g
 peixe cacao posta vitalmar 800g
-peixe cação vitalmar
-em postas
+peixe cacao
+postas vitalmar
 800g
 coquetel corote blueberry 500ml
 coquetel corote
@@ -1545,7 +1549,7 @@ extrato de tomate fugini 340g
 extrato de tomate
 fugini pouch
 340g
-sanitizante em po brilhante 1,6kg
+sanitizante em po brilhante saco 1,6kg
 sanitizante em pó
 brilhante
 1,6kg
@@ -1641,4 +1645,581 @@ suco de uva tinto mosteiro 1,5l
 suco de uva
 integral mosteiro
 1,5l
+arroz buriti 5kg
+arroz parboilizado
+buriti
+5kg
+arroz buriti 1kg
+arroz parboilizado
+buriti
+1kg
+macarrao espaguete isabela 500g
+macarrão isabela
+espaguete sêmola
+500g
+molho de tomate sofruta 2kg
+molho de tomate
+sófruta
+2kg
+farinha de mandioca temperada yoki 200g
+farinhga de mandioca
+temperada yoki
+200g
+queijo parmesao ralado vale da canastra 50g
+queijo ralado
+vale da canastra
+50g
+palmito de pupunha bahh 300g
+palmito de pupunha
+em rodelas bahh
+300g
+maionese d'ajuda 3kg
+maionese balde
+d'ajuda
+3kg
+cafe odebrecht 500g
+café odebrecht
+vácuo
+500g
+queijo mussarela litoral kg
+queijo mussarela
+litoral
+kg
+requeijao pia 180g
+requiejão pia
+normal/ligth
+180g
+acai frooty 2l
+açai frooty
+congelado
+2l
+leite fermentado batavo 850g
+leite fermentado
+batavo
+850g
+lanche de frango aurora kg
+lanche aurora
+frango peça
+kg
+achocolatado em po apti 700g
+achocolatado em pó
+apti power
+700g
+mistura para bolo apti 400g
+mistura para bolo
+apti sabores
+400g
+biscoito isabela gergelim 400g
+biscoito isabela
+gergelim
+400g
+toalha de papel sorella 2rolos
+toalha de papel
+sorella
+2 rolos
+sabonete francis classico 5x90g
+sabonete francis
+clássico
+5x 90g
+fralda babysec pacote
+fralda babysec
+descartável
+pacote
+sabonete flor de ype suave 12x90g
+sabonete suave
+flor de ypê
+12x 90g
+kit palmolive kit
+kit palmolive
+varios tipos
+kit
+inseticida mat inset 360ml
+inseticida 
+mat inset
+360ml
+lava roupa liquido ariel concentrado 2l
+lava roupas
+ariel concentrado
+2l
+bacon pamplona kg
+bacon pamplona
+defumado
+kg
+fralda pampers supersec pacote
+fralda pampers
+supersec
+pacote
+vassoura limpa piso condor und
+vassoura condor
+sem cabo
+und
+molho de tomate primor 340g
+molho de tomate
+primor pounch
+340g
+maionese hellmanns 2,8kg
+maionese hellmann's
+bag
+2,5kg
+tempero sazon 60g
+tempero sazón
+vários tipos
+60g
+extrato de tomate cajamar 350g
+extrato de tomate
+cajamar lata
+350g
+ervilha bonare 200g
+ervilha bonare
+lata
+200g
+queijo ralado parmesao ipanema 50g
+ queijo ralado
+parmesão ipanema
+50g
+acai polpa norte 2,6kg
+açai polpa norte
+tradiconal
+3,6kg
+petit suisse frimesa 360g
+petit suisse
+frimesa morango
+360g
+suco del valle laranja ou limao 1,5l
+suco del valle
+laranja / limão
+1,5l
+leite fermentado bob esponja elege 6x80g
+leite fermentado
+bob esponja
+6x80g
+pneu pirelli p400 evo 165-70 R13 e 175-70 R13 unidade
+pneu pirelli und
+165/70 R13
+175/70 R13
+oleo desengripante three bond 300ml
+óleo desengripante
+three bond
+300ml
+baralho copag 139 unidade
+baralho copag
+139
+unidade
+papel sulfite chamex und
+papel sulfite chamex
+500 folhas
+und
+amaciante de roupas urca 2l
+amaciante de roupas
+urca
+2l
+detergente liquido clean 500ml
+detergente líquido
+clean
+500ml
+kit seda kit
+kit seda
+shampoo + cond.
+kit
+leite elege 1l
+leite integral
+elegê
+1l
+creme dental sorisso l12p9 12x70g
+creme dental sorisso
+leve 12, pague 9
+12x70g
+aparelho de barbear ultragrip 2und
+aparelho de barbear
+gillette ultragrip
+2und
+aparelho de barbear bic soleil 2und
+aparelho de barbear
+bic soleil
+2und
+biscoito marilan 400g
+biscoito marilan
+vários tipos
+400g
+biscoito isabela cookies chocolate 60g
+cookies isabela
+chocolate
+60g
+biscoito marilan tortinhas 160g
+biscoito marilan
+tortinhas
+160g
+wafer isabela 145g
+wafer isabela
+sabores
+145g
+cerveja eisenbahn 600ml
+cerveja eisenbahn
+one way
+600ml
+hamburger faroeste aurora cxa
+hambúrger aurora
+faroeste misto
+caixa 36x56g
+pipoca para micro-ondas yoki sabores 100g
+pipoca yoki
+vários sabores
+100g
+minissaches dusul cxa
+katchup/maionese
+mostarda dusul
+caixa 190x7g
+mortadela bologna aurora 200g
+mortadela aurora
+tipo bologna
+200g
+ervilha sofruta 200g
+ervilha sófruta
+lata
+200g
+farinha de mandioca kisabor 500g
+farinha de mandioca
+kisabor
+500g
+queijo parmesao ralado arcoverde 50g
+quiejo ralado
+parmesão arcoverde
+50g
+milho verde sofruta 170g
+milho verde
+sófruta
+170g
+filezinho suino aurora kg
+filezinho suíno
+aurora
+kg
+massa para pastel marsala 2kg
+massa de pastel
+rolo marsala
+2kg
+bis xtra lacta 45g
+biscoito lacta
+bis xtra
+45g
+mistura para bolo nordeste 400g
+mistura de bolo
+nordeste sabores
+400g
+amaciante de roupas fofo 500ml
+amaciante concentrado
+fofo
+500ml
+kit uau kit
+kit uau
+multi-uso
+kit
+linguica mista kidelli 2,5kg
+linguiça mista
+kidelli
+2,5kg
+cebola atacadao kg
+cebola
+atacadão
+quilo
+batata lavada kg
+bata lavada
+atacadão
+quilo
+laranja pera kg
+laranja 
+pera
+quilo
+manga palmer kg
+manga
+plamer
+quilo
+ameixa nacional kg
+ameixa
+nacional
+quilo
+banana caturra kg
+banana
+caturra
+quilo
+limao taiti kg
+limão
+taiti
+quilo
+mamao comum kg
+mamão
+comum
+quilo
+maca gala kg
+maça
+gala
+quilo
+melao amarelo kg
+melão
+amarelo
+quilo
+melancia baby kg
+melancia
+baby
+quilo
+abobora italiana kg
+abóbora
+italiana
+quilo
+batata doce kg
+batata doce
+atacadão
+quilo
+abacaxi tropical und
+abacaxi
+tropical
+unidade
+papel higienico paloma 16 rolos
+papel higiênico
+paloma
+l16p15 rolos
+amaciante girando sol 5l
+amaciante
+girando sol
+5l
+ovo de codorna jureia 300g
+ovo de codorna
+jureia
+300g
+pepino em conserva bahh 300g
+pepino em
+conserva bahh
+300g
+la de aco bombril 60g
+lã de aço
+bombril
+60g
+farinha de mandioca kodilar 500g
+farofa kodilar
+temp / picante
+300g / 500g
+suco dafruta 1l
+suco néctar
+dafruta
+1l
+beterraba kg
+beterraba
+atacadao
+kg
+chuchu kg
+chuchu
+atacadao
+kg
+lava roupas liquido omo doyp 900ml
+lava roupas omo
+liquido
+900ml
+isotonico gatorade 500ml
+isotônico gatorade
+sabores
+500ml
+ovos lacta 240g
+ovos de páscoa
+lacta sabores
+240g
+ovos kinder 150g
+ovos de páscoa
+kinder ovo
+150g
+bomobom lacta sonho de valsa ouro branco 1kg
+lacta ouro branco/
+sonho de valsa
+1kg
+cobertura harald ao leite 1050g
+cobertura harald
+ao leite
+1050g
+bacalhau pedaco bom porto 1kg
+bacalhau pedaços
+bom porto
+1kg
+agua tonica antarctica 350ml
+água tônica
+antarctica
+350ml
+vinho campo largo suave 750ml
+vinho suave
+campo largo
+750ml
+pescada costa sul 800g
+pescada espalmo
+costa sul
+800g
+file de tilapia costa sul 800g
+filé de tilápia
+costa sul
+800g
+camarao descascado costa sul 800g
+camarão desc.
+costa sul
+800g
+file de salmao costa sul kg
+filé de salmão
+costa sul
+kg
+cerveja skol 269ml
+cerveja skol
+lata
+269ml
+coxa sobre coxa lar kg
+coxa sobre
+coxa lar
+kg
+creme dental sorriso l12p10
+creme dental
+sorriso l12p10
+12x90g
+toalha de papel snack und
+toalha de papel
+snack 50 fls
+und
+papel higienico mili l12p11 30m
+papel higiênico
+mili l12p11
+12x30m
+coca cola 1,5l
+refrigerante
+coca cola
+1,5l
+peito de frango copacol kg
+peito de frango
+copacol
+kg
+sanitizante em po brilhante caixa 1,6kg
+sanitizante em pó
+brilhante caixa
+1,6kg
+coxa sobre coxa dorsal cvale kg
+coxa sobre coxa
+dorsal cvale
+kg
+frango inteiro seara e pioneiro kg
+frango inteiro
+seara / pioneiro
+kg
+file de peito cvale kg
+filé de peito
+cvale
+kg
+lacta bis 3x126g
+biscoito lacta
+bis pack
+3x126g
+macarrao isabela semola 500g
+macarrão isabela
+semola pena
+500g
+mistura para pao frances nordeste 25kg
+mistura nordeste
+pão frances
+25kg
+leite condensado triangulo 5kg
+leite condensado
+triângulo
+5kg
+amaciante girando sol 5l quadrado
+amaciante de roupas
+girando sol
+5l
+costela em tiras astra kg
+costela tiras
+astra
+kg
+cafe melitta tradicional 500g
+café melitta
+tradicional
+500g
+molho de tomate predilecta 340g
+molho de tomate
+predilecta
+340g
+feijao sabor sul 1kg
+feijão preto
+sabor sul
+1kg
+presunto cozido peperi kg
+presunto cozido
+peperi
+kg
+tilapia em posta copacol 1kg
+tilápia copacol
+postas congeladas
+1kg
+cafe tres coracoes tradicional-extraforte vacuo 500g
+café vácuo
+três corações
+500g
+cafe tres coracoes extra forte vacuo 500g
+café extraforte
+três corações
+500g
+filezinho sassami iqf copacol 800g
+filezinho sassami
+copacol iqf
+800g
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
